@@ -1,0 +1,17 @@
+body{
+    background-image: url(assets/wall_background.png);
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#container{
+    display:flex;
+    justify-content:center;
+}
+
+#door{
+    width: 750px;
+}
