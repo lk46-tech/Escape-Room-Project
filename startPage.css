@@ -1,11 +1,13 @@
 body{
-    background-image: url(assets/wall_background.png);
+    background-image: url(assets/wallBackground.jpg);
 }
 h1{
     text-align: center;
+    color: aliceblue;
 }
 h2{
     text-align: center;
+    color: aliceblue;
 }
 #container{
     display:flex;
