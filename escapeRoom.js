@@ -1,5 +1,5 @@
 alert("To get out of this library escape room you'll need to find a key hidden in one of the objects (the quill, the stack of books, or the hourglass).");
-alert("Click on objects to find the key. Goodluck!");
+alert("Click on objects to find the key. Good luck!");
 
 let libraryObjects = document.getElementsByClassName("libraryObjects");
 
