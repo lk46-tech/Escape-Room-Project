@@ -8,6 +8,29 @@ body{
     background-size: cover;
 }
 
+h1{
+    text-align: center;
+    color:lightgrey;
+}
+
 a{
     color:lightgrey;
 }
+
+#objects{
+    display: flex;
+    justify-content: center;
+    align-content: space-evenly;
+    margin-top: 300px;
+}
+
+.libraryObjects{
+    width: 300px;
+}
+
+#riddle{
+    text-align: center;
+    color: lightgrey;
+}
+
+
